@@ -1,0 +1,8 @@
+{
+  "minRequired": "0.3",
+  "message": {
+    "ca": "Nova icona, el reforç sona diferent (xiulet urgent) i el calendari s'explica millor.",
+    "es": "Nuevo icono, el refuerzo suena distinto (pitido urgente) y el calendario se explica mejor.",
+    "en": "New icon, the backup alarm sounds different (urgent beep) and the calendar is clearer."
+  }
+}
