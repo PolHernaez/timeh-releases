@@ -1,8 +1,4 @@
 {
-  "minRequired": "0.3",
-  "message": {
-    "ca": "Nova icona, el reforç sona diferent (xiulet urgent) i el calendari s'explica millor.",
-    "es": "Nuevo icono, el refuerzo suena distinto (pitido urgente) y el calendario se explica mejor.",
-    "en": "New icon, the backup alarm sounds different (urgent beep) and the calendar is clearer."
-  }
+  "minRequired": "0.4",
+  "message": "Disseny més visual: colors i icones per tipus de dia, línia del temps, calendari en quadrícula, targetes d'alarma. Ja m'he llevat també durant el matí per treure les alarmes que queden. Els tons propis demanen el permís d'àudio (abans sonava el de reserva)."
 }
