@@ -1,4 +1,4 @@
 {
-  "minRequired": "0.5",
-  "message": "Icona nova amb la H de la marca."
+  "minRequired": "0.6",
+  "message": "CORRECCIÓ URGENT: les alarmes del dilluns podien no sonar si el cap de setmana no passava res. Ara es programen 8 dies endavant i hi ha una revisió diària. Salut comprova que la pròxima alarma està programada a Android."
 }
