@@ -1,4 +1,4 @@
 {
-  "minRequired": "0.6",
-  "message": "CORRECCIÓ URGENT: les alarmes del dilluns podien no sonar si el cap de setmana no passava res. Ara es programen 8 dies endavant i hi ha una revisió diària. Salut comprova que la pròxima alarma està programada a Android."
+  "minRequired": "0.7",
+  "message": "Avís just després d'actualitzar per tornar a activar la pantalla completa (ColorOS la treu en cada actualització): un toc obre l'interruptor. En obrir l'app, si falta, es demana al davant i es tanca sola quan ja està activada."
 }
