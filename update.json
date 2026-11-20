@@ -1,4 +1,4 @@
 {
-  "minRequired": "0.7",
+  "minRequired": "0.8",
   "message": "Avís just després d'actualitzar per tornar a activar la pantalla completa (ColorOS la treu en cada actualització): un toc obre l'interruptor. En obrir l'app, si falta, es demana al davant i es tanca sola quan ja està activada."
 }
