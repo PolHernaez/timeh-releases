@@ -1,4 +1,4 @@
 {
-  "minRequired": "0.8",
-  "message": "Si tens PlanH, TimeH li diu quins dies vas a l'oficina, en línia o sense alarma, i PlanH ho posa al calendari. Les alarmes no canvien."
+  "minRequired": "0.9",
+  "message": "PlanH pot llegir els teus dies d'oficina directament (encara que el mòbil no deixi despertar-la)"
 }
